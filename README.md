@@ -7,9 +7,9 @@ photodiode microphone
 
 LED compass, integrated to calendar and google maps 
 
-Network access point map
+Network access point house device room map
 
-advanced bookshelf
+advanced bookshelf, ocr read into database, projector show on shelf
 
 external screenwatching password guesser, typing habit recreation
 
