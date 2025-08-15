@@ -1,16 +1,30 @@
-## Hi there 👋
+## Things I want to do, codebased
+personal selfhost website
+receipt scan database for automated dietry information
+photodiode microphone
+LED compass
+Network access point map
+advanced bookshelf
+screenwatching password guesser
+webcam drone, automatic flight follow
+home lab integration for everything, maybe even a personal LLM, but mostly just database
+neural network trained off my own brain patterns to be able to guess what words im thinking, voice projection
+basic honeypot
+keyboard driver to show keybind combos
+digial journal backup
 
-<!--
-**BenHorleyOwen/BenHorleyOwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+noncoding:
+bitesize mango
+shape metal blooming flower
+meticulous garden project
+waterwheel piano
+sewing hudry gurdy
+plasma cannon
 
-Here are some ideas to get you started:
+Working on:
+OCR library shelf assistant
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+previous projects:
+Extended Autospy to highlight hex bytes based off of file patterns
+collection of coding challenges
+collections of games written in pygame from secondary school
