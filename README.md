@@ -5,13 +5,13 @@ receipt scan database for automated dietry information
 
 photodiode microphone
 
-LED compass
+LED compass, integrated to calendar and google maps 
 
 Network access point map
 
 advanced bookshelf
 
-screenwatching password guesser
+external screenwatching password guesser, typing habit recreation
 
 webcam drone, automatic flight follow
 
