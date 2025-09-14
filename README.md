@@ -1,4 +1,3 @@
-## Things I want to do, codebased
 personal selfhost website
 
 receipt scan database for automated dietry information
@@ -17,7 +16,7 @@ webcam drone, automatic flight follow
 
 home lab integration for everything, maybe even a personal LLM, but mostly just database
 
-neural network trained off my own brain patterns to be able to guess what words im thinking, voice projection
+neural network trained off my own brain patterns to project my voice through a chosen speaker
 
 basic honeypot
 
@@ -25,24 +24,12 @@ keyboard driver to show keybind combos
 
 digial journal backup
 
-## noncoding:
-
-bitesize mango
-
-shape metal blooming flower
-
-meticulous garden project
-
-waterwheel piano
-
-sewing hudry gurdy
-
-plasma cannon
-
 
 ## Working on:
 
 OCR library shelf assistant
+
+automated journal backup
 
 ## previous projects:
 
