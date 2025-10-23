@@ -74,9 +74,6 @@
 - simulated village days where each agent has to choose to go to different locations and simulate interactions with other agents, and recording their previous interactions etc
 - see how long the simulation can run before breaking down incoherantly
 
-### lab grown kitchen knife (43):
-- if i  can lab grow diamonds into the edge of a kitchen knife it should take an extremely long time to dull so i wont have to worry about sharpening it
-- if i want to go really overboard find a way to put ultrasonic vibration into it for even smoother prep
 
 # Working on:
 
