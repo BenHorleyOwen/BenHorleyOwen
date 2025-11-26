@@ -1,3 +1,7 @@
+![LeetCode](https://leetcode-badge-sage.vercel.app/badge/BHorOwe?bgColor=282828)
+
+
+
 # Things I want to make; (internal project numbers)
 
 ### personal selfhost website (11, 21, 22, 25, 26, 42):
