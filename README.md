@@ -1,4 +1,4 @@
-![LeetCode](https://leetcode-badge-sage.vercel.app/badge/BHorOwe?bgColor=282828)
+![LeetCode](https://leetcode-badge-sage.vercel.app/badge/BHorOwe?bgColor=fff)
 
 
 
