@@ -24,8 +24,6 @@
 ### advanced bookshelf, ocr read into database, projector show on shelf (10):
 - a bookshelf which uses a projector and informaiton on all the books to find the best way to store them on a small scale, whilst also being able to help locate books by lighlighting them
 
-### external screenwatching password guesser, typing habit recreation (13):
-- 
 
 ### drone swarm project (17, 39):
 - (17) webcam attached drone which has a rest state that attaches to pc/ derma stand and an active state where it can fly around the room like one of those ancient hand pixie toys but can keep computer signal
