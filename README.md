@@ -19,6 +19,13 @@ The goal of this project is to automatically maintain all my public project info
 
 ---
 
+### [Portfolio Website](https://github.com/BenHorleyOwen/BenHorleyOwen.github.io)
+
+The Portfolio web-page, deployed with github pages and locally tested with one of my [Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
+- "Projects" section is automatically generated from my personal notes when I [push them from my personal notes](https://github.com/BenHorleyOwen/Automated-portfolio-deployment).
+
+---
+
 ### [incremental journal backup](https://github.com/BenHorleyOwen/Incremental-Journal-Backup)
 
 modified a tool which takes full backups of the service I use for journaling and instead made it work by taking partial backups and updating the previously created HTML documents. The modified tool uses the API put up by the service to take the last entry ID when run
