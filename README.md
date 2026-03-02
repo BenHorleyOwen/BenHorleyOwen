@@ -13,9 +13,9 @@ This is a collection of submodules I have created to make the process of setting
 
 ---
 
-### Obsidian hosted over local network composition (46)
+### [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server)
 
-I created a compose for my home lab which hosts my obsidian notes over my local network, I also set up a local VPN so i can access these notes while away.
+I created a compose for my home lab which hosts my obsidian notes over my local network.
 
 ---
 
