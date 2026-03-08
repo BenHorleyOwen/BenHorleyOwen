@@ -4,7 +4,7 @@ Demonstrated ability to apply security principles through hands-on labs, hackath
 
 
 The following section is automatically generated from my personal notes as a method of future proofing for whenever I make something new.
-## Created Presentable Projects:
+## Presentable Projects:
 
 ### [Compose Files](https://github.com/BenHorleyOwen/Compose-Templates)
 
