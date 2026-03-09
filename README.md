@@ -54,7 +54,7 @@ The automation is used to gather the leetcode challenges I have completed with t
 
 ---
 
-### [incremental journal backup](https://github.com/BenHorleyOwen/Incremental-Journal-Backup)
+### [Incremental Journal Backup](https://github.com/BenHorleyOwen/Incremental-Journal-Backup)
 
 modified a tool which takes full backups of the service I use for journaling and instead made it work by taking partial backups and updating the previously created HTML documents. The modified tool uses the API put up by the service to take the last entry ID when run
 
