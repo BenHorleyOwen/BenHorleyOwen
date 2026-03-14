@@ -15,8 +15,6 @@ Contains a workflow to automatically hyperlink the submodules and any future add
 
 - [Node Template](https://github.com/BenHorleyOwen/Node-Template): This compose file mounts a given directory and serves it as a node js web server.
 
-- [Distroless containers](): This is a good way to build and deploy already developed apps as it substantially reduces the attack surface available. [Example project usage]().
-
 - [Jekyll Host](https://github.com/BenHorleyOwen/Jekyll-Host): This compose file builds a mounted directory and serves the webpage locally. 
 This was utilised as a local development environment while i was designing my portfolio webpage.
 
