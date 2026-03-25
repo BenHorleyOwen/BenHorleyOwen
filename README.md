@@ -16,11 +16,28 @@ This is a collection of the different services I run at home,
 
 - [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I use for [[CV Export]]
 
-- [Music Selfhost Sonos](None): a way to host the music files on my network (from [[MusicSync]]) so that they can be accessed by the house speaker system.
+- Music Selfhost Sonos: a way to host the music files on my network (from [[MusicSync]]) so that they can be accessed by the house speaker system.
 
 - [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
 
 
+
+
+
+---
+
+### [Gestural Mouse](https://github.com/BenHorleyOwen/Gestural-Mouse)
+
+a fun, small, subproject to control my computer across my room
+
+
+
+---
+
+### [Leetcode Automation](https://github.com/BenHorleyOwen/Leetcode-Synchroniser)
+
+This is an implementation of a GitHub action written by dos-m0nk3y to collect leetcode submissions, using a modified version by HoneyHabib for language support.
+The automation is used to gather the leetcode challenges I have completed with the accepted submission.
 
 
 
@@ -61,23 +78,6 @@ Project information and indexes containing subprojects can both be displayed, as
 
 The Portfolio web-page, deployed with github pages and locally tested with one of my [Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
 - "Projects" section is automatically generated from my personal notes when I [push them from my personal notes](https://github.com/BenHorleyOwen/Automated-portfolio-deployment).
-
-
-
----
-
-### - [Gestural Mouse](https://github.com/BenHorleyOwen/Gestural-Mouse): a fun, small, subproject to control my computer across my room
-
-
-
-
-
----
-
-### [Leetcode Automation](https://github.com/BenHorleyOwen/Leetcode-Synchroniser)
-
-This is an implementation of a GitHub action written by dos-m0nk3y to collect leetcode submissions, using a modified version by HoneyHabib for language support.
-The automation is used to gather the leetcode challenges I have completed with the accepted submission.
 
 
 
