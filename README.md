@@ -6,6 +6,26 @@ Demonstrated ability to apply security principles through hands-on labs, hackath
 The following section is automatically generated from my personal notes as a method of future proofing for whenever I make something new.
 ## Presentable Projects:
 
+### HomeLab setup
+
+This is a collection of the different services I run at home,
+
+- [Tailscale VPN](https://github.com/tailscale/tailscale): VPN to network my devices together, also allows me to access my services when away from home.
+
+- [Tandoor](https://github.com/TandoorRecipes/recipes): Recipe archive
+
+- [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I use for [[CV Export]]
+
+- [Music Selfhost Sonos](None): a way to host the music files on my network (from [[MusicSync]]) so that they can be accessed by the house speaker system.
+
+- [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
+
+
+
+
+
+---
+
 ### [Compose Files](https://github.com/BenHorleyOwen/Compose-Templates)
 
 this is an index of compose stacks that I have either set up as templates or for quick deploy across my devices. 
@@ -41,6 +61,14 @@ Project information and indexes containing subprojects can both be displayed, as
 
 The Portfolio web-page, deployed with github pages and locally tested with one of my [Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
 - "Projects" section is automatically generated from my personal notes when I [push them from my personal notes](https://github.com/BenHorleyOwen/Automated-portfolio-deployment).
+
+
+
+---
+
+### - [Gestural Mouse](https://github.com/BenHorleyOwen/Gestural-Mouse): a fun, small, subproject to control my computer across my room
+
+
 
 
 
