@@ -29,8 +29,6 @@ This was utilised as a local development environment while i was designing my po
 
 - [Database Node](https://github.com/BenHorleyOwen/Database-Node): Orchestrates a database and a website API to access it. Repo was designed with an init.sh for fast setup. This project was developed deployed as a submodule for my submission to [ETHOxford2026](https://github.com/BenHorleyOwen/ETH2026)
 
-- [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
-
 
 
 
