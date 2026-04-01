@@ -66,9 +66,9 @@ This is a collection of the different services I run at home,
 
 - [Tailscale VPN](https://github.com/tailscale/tailscale): VPN to network my devices together, also allows me to access my services when away from home.
 
-Dashboard
+- Dashboard: homelab dashboard which holds connections to each of my other services, routed using tailscale's DNS.
 
-homelab dashboard which holds connections to each of my other services, routed using tailscale's DNS.- [Tandoor](https://github.com/TandoorRecipes/recipes): Recipe archive
+- [Tandoor](https://github.com/TandoorRecipes/recipes): Recipe archive
 
 - [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I use for [[CV Export]]
 
