@@ -15,21 +15,9 @@ Project information and indexes containing subprojects can both be displayed, as
 
 ---
 
-### [Compose Files](https://github.com/BenHorleyOwen/Compose-Templates)
+### Music Server
 
-this is an index of compose stacks that I have either set up as templates or for quick deploy across my devices. 
-Contains a workflow to automatically hyperlink the submodules and any future additions.
-
-- [API Template](https://github.com/BenHorleyOwen/API-template): This project is a quick compose file made during a hackathon to quickly initialise a database and API serving container network on the local network.
-
-- [Node Template](https://github.com/BenHorleyOwen/Node-Template): This compose file mounts a given directory and serves it as a node js web server.
-
-- [Jekyll Host](https://github.com/BenHorleyOwen/Jekyll-Host): This compose file builds a mounted directory and serves the webpage locally. 
-This was utilised as a local development environment while i was designing my portfolio webpage.
-
-- [Database Node](https://github.com/BenHorleyOwen/Database-Node): Orchestrates a database and a website API to access it. Repo was designed with an init.sh for fast setup. This project was developed deployed as a submodule for my submission to [ETHOxford2026](https://github.com/BenHorleyOwen/ETH2026)
-
-
+a container stack to automate the ingest of music into my home music server
 
 
 
@@ -52,19 +40,41 @@ modified a tool which takes full backups of the service I use for journaling and
 
 ---
 
+### [Compose Files](https://github.com/BenHorleyOwen/Compose-Templates)
+
+this is an index of compose stacks that I have either set up as templates or for quick deploy across my devices. 
+Contains a workflow to automatically hyperlink the submodules and any future additions.
+
+- [API Template](https://github.com/BenHorleyOwen/API-template): This project is a quick compose file made during a hackathon to quickly initialise a database and API serving container network on the local network.
+
+- [Node Template](https://github.com/BenHorleyOwen/Node-Template): This compose file mounts a given directory and serves it as a node js web server.
+
+- [Jekyll Host](https://github.com/BenHorleyOwen/Jekyll-Host): This compose file builds a mounted directory and serves the webpage locally. 
+This was utilised as a local development environment while i was designing my portfolio webpage.
+
+- [Database Node](https://github.com/BenHorleyOwen/Database-Node): Orchestrates a database and a website API to access it. Repo was designed with an init.sh for fast setup. This project was developed deployed as a submodule for my submission to [ETHOxford2026](https://github.com/BenHorleyOwen/ETH2026)
+
+
+
+
+
+---
+
 ### HomeLab setup
 
 This is a collection of the different services I run at home,
 
 - [Tailscale VPN](https://github.com/tailscale/tailscale): VPN to network my devices together, also allows me to access my services when away from home.
 
-- [Tandoor](https://github.com/TandoorRecipes/recipes): Recipe archive
+Dashboard
+
+homelab dashboard which holds connections to each of my other services, routed using tailscale's DNS.- [Tandoor](https://github.com/TandoorRecipes/recipes): Recipe archive
 
 - [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I use for [[CV Export]]
 
-- Music Selfhost Sonos: a way to host the music files on my network (from [[MusicSync]]) so that they can be accessed by the house speaker system.
+Music Server
 
-- [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
+a container stack to automate the ingest of music into my home music server- [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
 
 
 
