@@ -15,14 +15,6 @@ Project information and indexes containing subprojects can both be displayed, as
 
 ---
 
-### Music Server
-
-a container stack to automate the ingest of music into my home music server
-
-
-
----
-
 ### [Portfolio Website](https://github.com/BenHorleyOwen/BenHorleyOwen.github.io)
 
 The Portfolio web-page, deployed with github pages and locally tested with one of my [Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
@@ -72,9 +64,9 @@ This is a collection of the different services I run at home,
 
 - [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I use for [[CV Export]]
 
-Music Server
+- Music Server: a container stack to automate the ingest of music into my home music server
 
-a container stack to automate the ingest of music into my home music server- [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
+- [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
 
 
 
