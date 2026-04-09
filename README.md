@@ -17,7 +17,7 @@ Project information and indexes containing subprojects can both be displayed, as
 
 ### [incremental journal backup](https://github.com/BenHorleyOwen/Incremental-Journal-Backup)
 
-modified a tool which takes full backups of the service I use for journaling and instead made it work by taking partial backups and updating the previously created HTML documents. The modified tool uses the API put up by the service to take the last entry ID when run
+I modified a tool which takes full backups of the service I use for journaling and instead made it work by taking partial backups and updating the previously created HTML documents. The modified tool uses the API put up by the service to take the last entry ID when run
 
 
 
@@ -27,6 +27,20 @@ modified a tool which takes full backups of the service I use for journaling and
 
 The Portfolio web-page, deployed with github pages and locally tested with one of my [Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
 - "Projects" section is automatically generated from my personal notes when I [push them from my personal notes](https://github.com/BenHorleyOwen/Automated-portfolio-deployment).
+
+
+
+---
+
+### Modular Workspace
+
+This is a collection of small projects and modifications made to my obsidian workspace to improve my own workspace and flow.
+
+- Applications bases: I set up a local database which automatically creates entries and organises them in a frontend view for my application process.
+
+- Project Collection: I keep all my projects within a native obsidian base, with file tagging, github links and skills for automatized data collection. These projects are automatically extended and categorised based off template macros. This database is referenced for my Automated Portfolio generation.
+
+
 
 
 
@@ -52,6 +66,14 @@ This was utilised as a local development environment while i was designing my po
 
 ---
 
+### [Maps manhunt](https://github.com/BenHorleyOwen/Map)
+
+A largescale manhunt game made for my friends which runs a containerised NodeJS webserver to maintain a synced map between participants using browser GPS calls.
+
+
+
+---
+
 ### HomeLab setup
 
 This is a collection of the different services I run at home, links under this category go to the original repositories.
@@ -62,7 +84,7 @@ This is a collection of the different services I run at home, links under this c
 
 - [Tandoor](https://github.com/TandoorRecipes/recipes): Recipe archive
 
-- [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I use for [[CV Export]]
+- [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I intend to extend for a future project.
 
 - Music Server: a container stack to automate the ingest of music into my home music server
 
