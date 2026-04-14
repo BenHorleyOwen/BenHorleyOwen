@@ -32,6 +32,14 @@ The Portfolio web-page, deployed with github pages and locally tested with one o
 
 ---
 
+### Secure Network Configuration Lab
+
+A collection of virtual machines which were networked as a mock school system with control access configuration on users and groups.
+
+
+
+---
+
 ### Modular Workspace
 
 This is a collection of small projects and modifications made to my obsidian workspace to improve my own workspace and flow.
@@ -68,7 +76,7 @@ This was utilised as a local development environment while i was designing my po
 
 ### [Maps manhunt](https://github.com/BenHorleyOwen/Map)
 
-A largescale manhunt game made for my friends which runs a containerised NodeJS webserver to maintain a synced map between participants using browser GPS calls.
+A largescale manhunt game made for my friends which runs a containerised NodeJS webserver to maintain a synced map between participants using browser GPS calls to websockets.
 
 
 
