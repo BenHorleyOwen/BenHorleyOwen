@@ -23,30 +23,56 @@ I modified a tool which takes full backups of the service I use for journaling a
 
 ---
 
-### [Portfolio Website](https://github.com/BenHorleyOwen/BenHorleyOwen.github.io)
+### [Portfolio Website](https://benhorleyowen.github.io)
 
-The Portfolio web-page, deployed with github pages and locally tested with one of my [Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
-- "Projects" section is automatically generated from my personal notes when I [push them from my personal notes](https://github.com/BenHorleyOwen/Automated-portfolio-deployment).
-
-
-
----
-
-### Secure Network Configuration Lab
-
-A collection of virtual machines which were networked as a mock school system with control access configuration on users and groups.
+webpage deployed on github pages, contains a collection of my projects and skills which is [automatically generated](https://github.com/BenHorleyOwen/Automated-portfolio-deployment) from my personal notes when I back them up. Locally tested with one of my [Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates) as a dev environment.
 
 
 
 ---
 
-### Modular Workspace
+### [Music Index](https://github.com/BenHorleyOwen/Music-Index)
 
-This is a collection of small projects and modifications made to my obsidian workspace to improve my own workspace and flow.
+overarching index repo to hold my different music subprojects, I have a lot of different things I like to make pertaining to music.
 
-- Applications bases: I set up a local database which automatically creates entries and organises them in a frontend view for my application process.
+- [Music Server](https://github.com/BenHorleyOwen/Music-Server): a container stack to automate the ingest of music into my home music server
 
-- Project Collection: I keep all my projects within a native obsidian base, with file tagging, github links and skills for automatized data collection. These projects are automatically extended and categorised based off template macros. This database is referenced for my Automated Portfolio generation.
+- [Music Sync](https://github.com/BenHorleyOwen/Music-Sync): 
+
+- Music Drive: music queue based off of road conditions and other driving sensors, e.g. going on to a motor way queues faster music, driving through nature shifts the vibes more placidly
+
+- Eternal Jukebox Radio: using the music scanning concept from the eternal jukebox over my personal playlists to make them seamlessly flow rather then relying on song ending and beginnings.
+
+[Robot Karaoke](https://github.com/BenHorleyOwen/Karaoke)
+
+personal copycat of [Jbrew's robot karaoke player](https://github.com/jbrew/robot-karaoke-player); "a web player for karaoke songs with procedurally generated replacement lyrics". Modified to interact with my music server as a backend.
+- currently, the project only works as regular karaoke.- Music Dashboard: ---
+tags:
+  - project
+  - subproject
+  - unpresentable
+skills:
+github:
+---
+proposed extention to my dashboard which would act as a music sync service to display the song im listening to on the music server, and allows me to write and edit a note about each song as a md metadata, which could be displayed in the dash. 
+- navidrome already holds a provision for comments, it just needs to be synced to dash.
+- 
+# Presentation
+## Description
+
+[Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
+
+this is an index of compose stacks that I have either set up as templates or for quick deploy across my devices. 
+Contains a workflow to automatically hyperlink the submodules and any future additions.
+
+- [API Template](https://github.com/BenHorleyOwen/API-template): This project is a quick compose file made during a hackathon to quickly initialise a database and API serving container network on the local network.
+
+- [Node Template](https://github.com/BenHorleyOwen/Node-Template): This compose file mounts a given directory and serves it as a node js web server.
+
+- [Jekyll Host](https://github.com/BenHorleyOwen/Jekyll-Host): This compose file builds a mounted directory and serves the webpage locally. 
+This was utilised as a local development environment while i was designing my portfolio webpage.
+
+- [Database Node](https://github.com/BenHorleyOwen/Database-Node): Orchestrates a database and a website API to access it. Repo was designed with an init.sh for fast setup. This project was developed deployed as a submodule for my submissions to [ETHOxford2026](https://github.com/BenHorleyOwen/ETH2026) and [ODI/FRC2026](https://github.com/BenHorleyOwen/ODIFRC-hackathon).
 
 
 
@@ -88,13 +114,13 @@ This is a collection of the different services I run at home, links under this c
 
 - [Tailscale VPN](https://github.com/tailscale/tailscale): VPN to network my devices together, also allows me to access my services when away from home.
 
-- Dashboard: homelab dashboard which holds connections to each of my other services, routed using tailscale's DNS.
+- Dashboard: homelab dashboard which holds connections to each of my other services, routed using tailscale's DNS and docker networks
 
 - [Tandoor](https://github.com/TandoorRecipes/recipes): Recipe archive
 
 - [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I intend to extend for a future project.
 
-- Music Server: a container stack to automate the ingest of music into my home music server
+- [Music Server](https://github.com/BenHorleyOwen/Music-Server): a container stack to automate the ingest of music into my home music server
 
 - [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
 
