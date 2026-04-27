@@ -37,16 +37,16 @@ overarching index repo to hold my different music subprojects, I have a lot of d
 
 - [Music Server](https://github.com/BenHorleyOwen/Music-Server): a container stack to automate the ingest of music into my home music server
 
-- [Music Sync](https://github.com/BenHorleyOwen/Music-Sync): 
+- [Music Sync](https://github.com/BenHorleyOwen/Music-Sync): project for syncing my playlists across platforms without having to pay any subscriptions for prexisting services, born from pettiness
 
 - Music Drive: music queue based off of road conditions and other driving sensors, e.g. going on to a motor way queues faster music, driving through nature shifts the vibes more placidly
 
 - Eternal Jukebox Radio: using the music scanning concept from the eternal jukebox over my personal playlists to make them seamlessly flow rather then relying on song ending and beginnings.
 
-[Robot Karaoke](https://github.com/BenHorleyOwen/Karaoke)
+- [Robot Karaoke](https://github.com/BenHorleyOwen/Karaoke): personal copycat of [Jbrew's robot karaoke player](https://github.com/jbrew/robot-karaoke-player); "a web player for karaoke songs with procedurally generated replacement lyrics". Modified to interact with my music server as a backend.
+- currently, the project only works as regular karaoke.
 
-personal copycat of [Jbrew's robot karaoke player](https://github.com/jbrew/robot-karaoke-player); "a web player for karaoke songs with procedurally generated replacement lyrics". Modified to interact with my music server as a backend.
-- currently, the project only works as regular karaoke.- Music Dashboard: ---
+- Music Dashboard: ---
 tags:
   - project
   - subproject
