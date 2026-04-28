@@ -13,11 +13,15 @@ Project information and indexes containing subprojects can both be displayed, as
 
 
 
+
+
 ---
 
 ### [incremental journal backup](https://github.com/BenHorleyOwen/Incremental-Journal-Backup)
 
 I modified a tool which takes full backups of the service I use for journaling and instead made it work by taking partial backups and updating the previously created HTML documents. The modified tool uses the API put up by the service to take the last entry ID when run
+
+
 
 
 
@@ -29,6 +33,8 @@ webpage deployed on github pages, contains a collection of my projects and skill
 
 
 
+
+
 ---
 
 ### [Music Index](https://github.com/BenHorleyOwen/Music-Index)
@@ -37,42 +43,7 @@ overarching index repo to hold my different music subprojects, I have a lot of d
 
 - [Music Server](https://github.com/BenHorleyOwen/Music-Server): a container stack to automate the ingest of music into my home music server
 
-- [Music Sync](https://github.com/BenHorleyOwen/Music-Sync): project for syncing my playlists across platforms without having to pay any subscriptions for prexisting services, born from pettiness
-
-- Music Drive: music queue based off of road conditions and other driving sensors, e.g. going on to a motor way queues faster music, driving through nature shifts the vibes more placidly
-
-- Eternal Jukebox Radio: using the music scanning concept from the eternal jukebox over my personal playlists to make them seamlessly flow rather then relying on song ending and beginnings.
-
-- [Robot Karaoke](https://github.com/BenHorleyOwen/Karaoke): personal copycat of [Jbrew's robot karaoke player](https://github.com/jbrew/robot-karaoke-player); "a web player for karaoke songs with procedurally generated replacement lyrics". Modified to interact with my music server as a backend.
-- currently, the project only works as regular karaoke.
-
-- Music Dashboard: ---
-tags:
-  - project
-  - subproject
-  - unpresentable
-skills:
-github:
----
-proposed extention to my dashboard which would act as a music sync service to display the song im listening to on the music server, and allows me to write and edit a note about each song as a md metadata, which could be displayed in the dash. 
-- navidrome already holds a provision for comments, it just needs to be synced to dash.
-- 
-# Presentation
-## Description
-
-[Compose Templates](https://github.com/BenHorleyOwen/Compose-Templates)
-
-this is an index of compose stacks that I have either set up as templates or for quick deploy across my devices. 
-Contains a workflow to automatically hyperlink the submodules and any future additions.
-
-- [API Template](https://github.com/BenHorleyOwen/API-template): This project is a quick compose file made during a hackathon to quickly initialise a database and API serving container network on the local network.
-
-- [Node Template](https://github.com/BenHorleyOwen/Node-Template): This compose file mounts a given directory and serves it as a node js web server.
-
-- [Jekyll Host](https://github.com/BenHorleyOwen/Jekyll-Host): This compose file builds a mounted directory and serves the webpage locally. 
-This was utilised as a local development environment while i was designing my portfolio webpage.
-
-- [Database Node](https://github.com/BenHorleyOwen/Database-Node): Orchestrates a database and a website API to access it. Repo was designed with an init.sh for fast setup. This project was developed deployed as a submodule for my submissions to [ETHOxford2026](https://github.com/BenHorleyOwen/ETH2026) and [ODI/FRC2026](https://github.com/BenHorleyOwen/ODIFRC-hackathon).
+- [Robot Karaoke](https://github.com/BenHorleyOwen/Karaoke): personal copycat of [Jbrew's robot karaoke player](https://github.com/jbrew/robot-karaoke-player); "a web player for karaoke songs with procedurally generated replacement lyrics". Modified to interact with my music server as a backend. Currently, the project only works as regular karaoke.
 
 
 
@@ -106,6 +77,8 @@ A largescale manhunt game made for my friends which runs a containerised NodeJS 
 
 
 
+
+
 ---
 
 ### HomeLab setup
@@ -136,12 +109,16 @@ a fun, small, subproject to control my computer across my room
 
 
 
+
+
 ---
 
 ### [Leetcode Automation](https://github.com/BenHorleyOwen/Leetcode-Synchroniser)
 
 This is an implementation of a GitHub action written by dos-m0nk3y to collect leetcode submissions, using a modified version by HoneyHabib for language support.
 The automation is used to gather the leetcode challenges I have completed with the accepted submission.
+
+
 
 
 
