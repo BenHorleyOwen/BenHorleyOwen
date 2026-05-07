@@ -41,7 +41,7 @@ webpage deployed on github pages, contains a collection of my projects and skill
 
 overarching index repo to hold my different music subprojects, I have a lot of different things I like to make pertaining to music.
 
-- [Music Server](https://github.com/BenHorleyOwen/Music-Server): a container stack to automate the ingest of music into my home music server
+- [Music Server](https://github.com/BenHorleyOwen/Music-Server): A container stack to automate the ingest of music into my home music server. The stack is made up of Navidrome (server backend), Slskd (for ingest) and beets (for automatic tagging and organisation). This backend architecture is ten further accessed by other projects under my music index through dockers internal network.
 
 - [Robot Karaoke](https://github.com/BenHorleyOwen/Karaoke): personal copycat of [Jbrew's robot karaoke player](https://github.com/jbrew/robot-karaoke-player); "a web player for karaoke songs with procedurally generated replacement lyrics". Modified to interact with my music server as a backend. Currently, the project only works as regular karaoke.
 
@@ -93,7 +93,7 @@ This is a collection of the different services I run at home, links under this c
 
 - [Penpot selfhost](https://github.com/penpot/penpot): I have a local version of Penpot which I intend to extend for a future project.
 
-- [Music Server](https://github.com/BenHorleyOwen/Music-Server): a container stack to automate the ingest of music into my home music server
+- [Music Server](https://github.com/BenHorleyOwen/Music-Server): A container stack to automate the ingest of music into my home music server. The stack is made up of Navidrome (server backend), Slskd (for ingest) and beets (for automatic tagging and organisation). This backend architecture is ten further accessed by other projects under my music index through dockers internal network.
 
 - [Obsidian Host](https://github.com/BenHorleyOwen/Obsidian-Server): I created a compose for my home lab which hosts my obsidian notes over my local network.
 
